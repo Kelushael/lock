@@ -1,0 +1,8 @@
+aiohttp==3.8.5
+pandas==2.1.0
+numpy==1.24.3
+asyncio-mqtt==0.11.1
+websockets==11.0.3
+krakenex==2.1.0
+python-dateutil==2.8.2
+pytz==2023.3
